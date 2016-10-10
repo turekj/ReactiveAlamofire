@@ -221,6 +221,7 @@
 				TargetAttributes = {
 					ECFFFA471CCB985D0044D30A = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0800;
 					};
 					ECFFFA5A1CCBBBD10044D30A = {
 						CreatedOnToolsVersion = 7.3;
@@ -427,6 +428,7 @@
 				PRODUCT_NAME = ReactiveAlamofire;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -445,6 +447,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ReactiveKit.ReactiveAlamofire;
 				PRODUCT_NAME = ReactiveAlamofire;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
